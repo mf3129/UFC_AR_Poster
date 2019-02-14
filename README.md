@@ -1,7 +1,7 @@
 # UFC_AR_Poster
 UFC Augmented Reality Poster
 
-Here is an Augmented Reality UFC Poster Project. It touches on the nicknames of both fighters. Enjoy! 
+Here is an Augmented Reality UFC Poster Project concept. It touches on the nicknames of both fighters using both Unity 3D and ARKIT 2.0. Enjoy! 
 
 Full Video -> https://www.youtube.com/watch?v=eDlxdOWAqMM
 
